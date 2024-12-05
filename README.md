@@ -12,7 +12,8 @@
 - Per spending type
 
 ## Kamiku:
-- Academic
+- Academic Performance 
+- Need to resource (N/RC) index
 
 ## Cross datasets:
 - Funding vs. Safety issues
