@@ -12,7 +12,7 @@
 - Per spending type
 
 ## Kamiku:
-- Academic Performance 
+- High School Graduation Rate (4,5,6 years refer)
 - Need to resource (N/RC) index
 
 ## Cross datasets:
