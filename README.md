@@ -1,20 +1,23 @@
 
-## Kathryn: 
-- Per district, avg(safety_issues) and YoY change
-- safety_issues can be broken down into different types
-- Per school, top ten and bottom ten
-- Per safety type, top ten and bottom ten
+# NY State School Profile in Funding, Safety and Performance
 
-## Raymond:
-- Per district, avg(spending), and YoY change
-- spending can be broken down into different types
-- Per school, top ten and bottom ten
-- Per spending type
+Big Data Application Development Group 10 @ NYU
 
-## Kamiku:
-- High School Graduation Rate (4,5,6 years refer)
-- Need to resource (N/RC) index
-
-## Cross datasets:
-- Funding vs. Safety issues
-- Academic vs. Safety Issues
+.
+├── README.md
+├── clean_profile
+│   ├── Funding Analysis.ipynb
+│   ├── Funding Safety Analysis.ipynb
+│   ├── Funding Safety Analysis.pdf
+│   ├── Funding_Safety_analysis.twb // Tableau file
+│   ├── county_funding_safety_corr.csv
+│   ├── County Funding_Safety_analysis.twb // Tableau file
+│   ├── global_funding_safety.csv
+│   ├── safety_analysis.ipynb // local analysis on safety dataset
+│   └── correlation_analysis.ipynb
+── analysis_visualization
+│   ├── School Funding Data.ipynb
+│   ├── Funding Data Ingest.ipynb
+│   ├── safety_data_ingetion.ipynb
+│   ├── School Card Report Clean + Profile.ipynb
+│   └── School Card Report Clean + Profile.pdf
