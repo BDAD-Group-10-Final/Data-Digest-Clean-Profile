@@ -3,11 +3,12 @@
 
 Big Data Application Development Group 10 @ NYU
 
+```
 .
 ├── README.md
 ├── clean_profile
 │   ├── Funding Analysis.ipynb
-│   ├── Funding Safety Analysis.ipynb
+│   ├── funding_safety_analysis.ipynb
 │   ├── Funding Safety Analysis.pdf
 │   ├── Funding_Safety_analysis.twb // Tableau file
 │   ├── county_funding_safety_corr.csv
@@ -23,3 +24,4 @@ Big Data Application Development Group 10 @ NYU
 │   ├── safety_data_ingetion.ipynb
 │   ├── School Card Report Clean + Profile.ipynb
 │   └── School Card Report Clean + Profile.pdf
+```
