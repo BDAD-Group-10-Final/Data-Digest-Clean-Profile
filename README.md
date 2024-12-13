@@ -14,7 +14,9 @@ Big Data Application Development Group 10 @ NYU
 │   ├── County Funding_Safety_analysis.twb // Tableau file
 │   ├── global_funding_safety.csv
 │   ├── safety_analysis.ipynb // local analysis on safety dataset
-│   └── correlation_analysis.ipynb
+│   ├── safety_analysis.pdf
+│   ├── correlation_analysis.ipynb
+│   └── correlation_analysis.pdf
 ── analysis_visualization
 │   ├── School Funding Data.ipynb
 │   ├── Funding Data Ingest.ipynb
