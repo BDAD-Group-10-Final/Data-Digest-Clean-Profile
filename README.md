@@ -18,10 +18,10 @@ Big Data Application Development Group 10 @ NYU
 │   ├── safety_analysis.pdf
 │   ├── correlation_analysis.ipynb
 │   └── correlation_analysis.pdf
-── analysis_visualization
-│   ├── School Funding Data.ipynb
-│   ├── Funding Data Ingest.ipynb
-│   ├── safety_data_ingetion.ipynb
-│   ├── School Card Report Clean + Profile.ipynb
-│   └── School Card Report Clean + Profile.pdf
+└── analysis_visualization
+    ├── School Funding Data.ipynb
+    ├── Funding Data Ingest.ipynb
+    ├── safety_data_ingetion.ipynb
+    ├── School Card Report Clean + Profile.ipynb
+    └── School Card Report Clean + Profile.pdf
 ```
